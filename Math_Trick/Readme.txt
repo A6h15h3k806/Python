@@ -1,0 +1,1 @@
+A mathematical magic trick that I hope is amusing. 
