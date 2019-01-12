@@ -3,5 +3,4 @@ I am assuming that the variance in the time interval between two consecutive tok
 for a sufficiently large sample. 
 
 This might as well me the final version...
-
  
